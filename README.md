@@ -1,1 +1,16 @@
-# marquee-project-1
+<!DOCTYPE html>
+<HTML>
+    <HEAD>
+<TITLE>news.com
+</TITLE>
+    </HEAD>
+<BODY>
+    
+<marquee bgcolor="red" behavior="alternate" direction="right"><h1><b>HEADLINES</b></h1></marquee>
+<p>
+    <marquee bgcolor="red" behavior="scroll" direction="up" ALIGN="CENTER" ><h1><b> for example Will traditional school bWill traditional school become a virtual one someday?generations going to school simply meant meeting friends, adoring teachers’ knowledge, having an entertaining environment and learning various subjects in traditional manner. I use traditional in the sense that everything has to be learnt manually, though there will be personal aid from the teacherng for acquiring few ounces of knowledge. However, thiicient attentio</b></h1></marquee> 
+</p>
+<marquee bgcolor="red" behavior="alternate" direction="left"><h1><b>Thank you</b></h1></marquee>
+
+</BODY>
+</HTML> 
